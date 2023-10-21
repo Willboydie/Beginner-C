@@ -1,5 +1,5 @@
 # Beginner-C
-A couple of C beginner mini projects. Code written in the early stages of learning.
+A couple of C beginner mini projects. Code written in the early stages of learning. I will be using this repo to record my progress in C into the future.
 
 #### int_array.c
 Learning the syntax and memory mechanics of int arrays in c.
