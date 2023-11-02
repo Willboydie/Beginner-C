@@ -9,3 +9,6 @@ A problem involving user input, while loops and do-while loops. Starting at n={i
 
 #### set_a_password.c
 Practice using dynamic memory allocation.
+
+#### int_passcode_cases.c
+Practice using, amongst other things, cases, do-wile loops, dynamic memory, fgets and looping over strings.
