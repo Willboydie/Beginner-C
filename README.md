@@ -15,3 +15,6 @@ Practice using, amongst other things, cases, do-wile loops, dynamic memory, fget
 
 #### counting_words.c
 Counting the words in a text message. An exploration of the use of pointers to change a variables value by simply pointing to different points in memory.
+
+#### password_login_2.c
+A 4 digit passcode login page.
