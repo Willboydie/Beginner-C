@@ -18,3 +18,6 @@ Counting the words in a text message. An exploration of the use of pointers to c
 
 #### password_login_2.c
 A 4 digit passcode login page.
+
+#### pointer_types_ASCII.c
+A script displaying the importance of pointer type. Gives a key insight into how the computer stores and accesses letters and integers.
