@@ -17,7 +17,7 @@ Practice using, amongst other things, cases, do-wile loops, dynamic memory, fget
 Counting the words in a text message. An exploration of the use of pointers to change a variables value by simply pointing to different points in memory.
 
 #### password_login_2.c
-A 4 digit passcode login page.
+A 4 digit passcode login page. Allows any character, and any number of characters as input. Warns the passcode must be 4 digits and all numbers. Gives 10 attempts.
 
 #### pointer_types_ASCII.c
 A script displaying the importance of pointer type. Gives a key insight into how the computer stores and accesses letters and integers.
