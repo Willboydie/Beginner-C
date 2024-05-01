@@ -1,5 +1,5 @@
-# Beginner-C
-A couple of C beginner mini projects. Code written in the early stages of learning. I will be using this repo to record my progress in C into the future.
+# C
+C mini projects. Code written with the sole purpose of learning the langauge and the computer science concepts below its surface. I will be using this repo to record my progress in C into the future.
 
 #### int_array.c
 Learning the syntax and memory mechanics of int arrays in c.
@@ -12,3 +12,6 @@ Practice using dynamic memory allocation.
 
 #### int_passcode_cases.c
 Practice using, amongst other things, cases, do-wile loops, dynamic memory, fgets and looping over strings.
+
+#### counting_words.c
+Counting the words in a text message. An exploration of the use of pointers to change a variables value by simply pointing to different points in memory.
